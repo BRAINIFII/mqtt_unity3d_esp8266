@@ -1,2 +1,2 @@
-Demene 
+Demene \r\n
 arakadaşlar
