@@ -11,7 +11,7 @@ using System;
 public class mqttTest : MonoBehaviour {
 	private MqttClient client;
     public int connect = 0;
-    public string Kuid="kuman";
+    public string Kuid="remotecontrollerid"; // myphone, mypc, carcommander, servocontroller, jhon, etc. (you will setting a name (String), device on running in unity)
     public string Arid="";
     public string Aridtmp;
     public int Asama=0;
