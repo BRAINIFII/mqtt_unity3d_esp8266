@@ -5,8 +5,8 @@
 
 // Update these with values suitable for your network.
 
-char* ssid = "Zyxel";
-char* password = "bebedede14";
+char* ssid = "SSID-NAME";
+char* password = "SSID-PASSWORD";
 char* mqtt_server = "192.168.2.2";  //8 espbroker idi
 WiFiClient espClient;
 PubSubClient client(espClient);
